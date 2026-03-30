@@ -59,6 +59,7 @@ Crear una máquina virtual desde cero, configurar sus recursos hardware e instal
 
 ## 📸 Evidencia del laboratorio
 
+![Creacion de maquina virtual](screenshots/Creacion_maquina_virtual.png)
 /screenshots
 
 Ejemplos recomendados:
