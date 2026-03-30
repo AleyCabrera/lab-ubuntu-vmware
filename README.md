@@ -79,6 +79,22 @@ Crear una máquina virtual desde cero, configurar sus recursos hardware e instal
 
 ![Configuracion de procesadores](screenshots/config_de_procesadores.png)
 
+### Resultados de configuracion:
+
+![Resultados de configuracion](screenshots/resultado_configuracion.png)
+
+### Configuraciones Basicas de linux:
+
+![Configuracion basica](screenshots/config_basica.png)
+
+### Creacion de usuario para Ubuntu:
+
+![Creacion usuario](screenshots/creacion_usuario.png)
+
+### Entorno final ya creado para Ubuntu:
+
+![Entorno final](screenshots/entorno_final.png)
+
 ---
 
 ## 🔐 Importancia profesional
