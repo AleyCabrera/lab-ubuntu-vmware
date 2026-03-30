@@ -91,6 +91,10 @@ Crear una máquina virtual desde cero, configurar sus recursos hardware e instal
 
 ![Creacion usuario](screenshots/creacion_usuario.png)
 
+### Inicio de usuario para entorno Linux Ubuntu:
+
+![Usurario de inicio](screenshots/inicio_usuario.png)
+
 ### Entorno final ya creado para Ubuntu:
 
 ![Entorno final](screenshots/entorno_final.png)
