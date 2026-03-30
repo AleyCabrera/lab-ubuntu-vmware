@@ -72,15 +72,47 @@ Crear una máquina virtual desde cero, configurar sus recursos hardware e instal
 ![Configuracion espacio en disco](screenshots/Config_espacio_disco.png)
 
 
-Ejemplos recomendados:
-
-- Creación de la VM
-- Configuración de hardware
-- Instalación de Ubuntu
-- Pantalla de inicio de sesión
-- Escritorio Ubuntu funcionando
 
 ---
 
-## 📂 Estructura del repositorio
+## 🔐 Importancia profesional
+
+La virtualización es una competencia fundamental en áreas como:
+
+- Administración de sistemas
+- Cloud Computing
+- DevOps
+- Ciberseguridad
+- Soporte TI
+
+Este laboratorio representa el inicio de la construcción de mi **Home Lab de Linux y Seguridad Informática**.
+
+---
+
+## 📌 Próximos laboratorios
+
+- Administración básica de Linux
+- Instalación de Kali Linux
+- Redes en máquinas virtuales
+- Hardening de sistemas Linux
+- Laboratorio de ciberseguridad
+
+---
+
+## 👨‍💻 Autor
+
+**Aley Cabrera**
+
+
+🎓 Estudiante de Ingeniería Mecatrónica y Telemática en @unibarranquilla_
+Estudiante autodidacta de mis interese
+Intereses: Sistemas, Cloud, Ciberseguridad y Desarrollo
+
+#IUB #UniBarranquilla #IngenieríaMecatronica #Telematica 
+#EducaciónSuperior #Colombia #TechStudent
+
+---
+
+⭐ Si este laboratorio te resulta útil, ¡no olvides darle estrella al repositorio!
+
 
