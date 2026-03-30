@@ -59,7 +59,7 @@ Crear una máquina virtual desde cero, configurar sus recursos hardware e instal
 
 ## 📸 Evidencia del laboratorio
 
-> Agregar capturas en la carpeta `/screenshots`
+/screenshots
 
 Ejemplos recomendados:
 
