@@ -71,7 +71,13 @@ Crear una máquina virtual desde cero, configurar sus recursos hardware e instal
 
 ![Configuracion espacio en disco](screenshots/Config_espacio_disco.png)
 
+### Configuracion de espacio en memoria RAm:
 
+![Configuracion espacio en RAM](screenshots/config_de_ram.png)
+
+### Configuracion de procesadores:
+
+![Configuracion de procesadores](screenshots/config_de_procesadores.png)
 
 ---
 
@@ -105,7 +111,9 @@ Este laboratorio representa el inicio de la construcción de mi **Home Lab de Li
 
 
 🎓 Estudiante de Ingeniería Mecatrónica y Telemática en @unibarranquilla_
+
 Estudiante autodidacta de mis interese
+
 Intereses: Sistemas, Cloud, Ciberseguridad y Desarrollo
 
 #IUB #UniBarranquilla #IngenieríaMecatronica #Telematica 
