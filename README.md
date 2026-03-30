@@ -1,59 +1,72 @@
-# lab-ubuntu-vmware
+# 🐧 Ubuntu Virtual Lab – VMware Deployment
 
-# 🐧 Laboratorio – Instalación de Ubuntu en VMware
+Implementación de un entorno Linux virtualizado utilizando VMware como parte de mi proceso de formación en **Sistemas, Infraestructura y Ciberseguridad**.
 
-Implementación de un sistema operativo Linux Ubuntu en un entorno virtualizado utilizando VMware Workstation.
-
-Este laboratorio hace parte de mi ruta de aprendizaje en **Sistemas Operativos, Infraestructura y Ciberseguridad**.
+Este laboratorio marca el inicio de la construcción de mi **Home Lab profesional**, orientado a prácticas reales de administración de sistemas, redes y seguridad informática.
 
 ---
 
-## 🎯 Objetivo del laboratorio
+## 📌 Descripción del proyecto
 
-Crear una máquina virtual desde cero, configurar sus recursos hardware e instalar correctamente Ubuntu Linux para construir un entorno de práctica profesional.
+En este laboratorio diseñé e implementé una máquina virtual desde cero, desplegando Ubuntu Desktop LTS en un entorno controlado.  
 
----
-
-## 🧠 Habilidades demostradas
-
-- Virtualización de sistemas operativos
-- Instalación de Linux en entorno empresarial simulado
-- Configuración de hardware virtual (CPU, RAM, Disco)
-- Configuración de red NAT
-- Documentación técnica de laboratorio
-- Buenas prácticas de entornos de prueba
+El objetivo fue simular un escenario real de provisión de infraestructura, aplicando buenas prácticas en asignación de recursos, virtualización y conectividad.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 🎯 Objetivos técnicos
 
-| Herramienta        | Uso                        |
-| ------------------ | -------------------------- |
-| VMware Workstation | Virtualización             |
-| Ubuntu Desktop LTS | Sistema Operativo invitado |
-| Windows 11         | Sistema operativo host     |
-
----
-
-## 💻 Configuración de la máquina virtual
-
-| Recurso    | Configuración |
-| ---------- | ------------- |
-| RAM        | 4 GB          |
-| CPU        | 4 núcleos     |
-| Disco duro | 40 GB         |
-| Red        | NAT           |
+- Implementar un sistema Linux en entorno virtualizado  
+- Configurar recursos de hardware de forma eficiente  
+- Establecer conectividad de red mediante NAT  
+- Validar la operatividad del sistema  
+- Construir una base para futuros laboratorios de ciberseguridad  
 
 ---
 
-## 🚀 Procedimiento general
+## 🧠 Competencias desarrolladas
 
-1. Creación de nueva máquina virtual en VMware  
-2. Carga de la imagen ISO de Ubuntu  
+- Virtualización de sistemas operativos  
+- Instalación y despliegue de Linux  
+- Configuración de recursos (CPU, RAM, almacenamiento)  
+- Networking básico (NAT – Network Address Translation)  
+- Documentación técnica orientada a proyectos  
+- Preparación de entornos de laboratorio  
+
+---
+
+## 🛠️ Stack tecnológico
+
+| Tecnología         | Rol en el laboratorio        |
+| ------------------ | ---------------------------- |
+| VMware Workstation | Plataforma de virtualización |
+| Ubuntu Desktop LTS | Sistema operativo invitado   |
+| Windows 11         | Sistema host                 |
+
+---
+
+## ⚙️ Configuración del entorno
+
+| Recurso | Valor asignado |
+| ------- | -------------- |
+| RAM     | 4 GB           |
+| CPU     | 4 vCPU         |
+| Disco   | 40 GB          |
+| Red     | NAT            |
+
+**Justificación técnica:**
+Configuración equilibrada que permite un rendimiento estable del sistema sin comprometer los recursos del host.
+
+---
+
+## 🚀 Flujo de implementación
+
+1. Creación de máquina virtual en VMware  
+2. Integración de imagen ISO de Ubuntu  
 3. Configuración de hardware virtual  
 4. Instalación del sistema operativo  
 5. Creación de usuario administrador  
-6. Validación del entorno Linux operativo  
+6. Validación del entorno operativo  
 
 ---
 
@@ -101,27 +114,33 @@ Crear una máquina virtual desde cero, configurar sus recursos hardware e instal
 
 ---
 
-## 🔐 Importancia profesional
+## 🔐 Enfoque profesional
 
-La virtualización es una competencia fundamental en áreas como:
+La virtualización es una tecnología fundamental en entornos modernos de:
 
-- Administración de sistemas
-- Cloud Computing
-- DevOps
-- Ciberseguridad
-- Soporte TI
+- Administración de sistemas  
+- Cloud Computing  
+- DevOps  
+- Ciberseguridad  
+- Soporte técnico  
 
-Este laboratorio representa el inicio de la construcción de mi **Home Lab de Linux y Seguridad Informática**.
+Este laboratorio representa la base para escenarios más complejos como:
+
+- Hardening de sistemas Linux  
+- Simulación de ataques y defensas  
+- Implementación de servicios (SSH, Web, DNS)  
+- Arquitecturas de laboratorio multi-VM  
 
 ---
 
-## 📌 Próximos laboratorios
+## 🔮 Roadmap (Próximos pasos)
 
-- Administración básica de Linux
-- Instalación de Kali Linux
-- Redes en máquinas virtuales
-- Hardening de sistemas Linux
-- Laboratorio de ciberseguridad
+- [ ] Administración avanzada de Linux  
+- [ ] Instalación y uso de Kali Linux  
+- [ ] Configuración de redes virtuales (Bridge / Host-Only)  
+- [ ] Hardening de Ubuntu  
+- [ ] Laboratorio de pentesting básico  
+- [ ] Automatización con Bash  
 
 ---
 
@@ -134,10 +153,17 @@ Este laboratorio representa el inicio de la construcción de mi **Home Lab de Li
 
 Estudiante autodidacta de mis interese
 
-Intereses: Sistemas, Cloud, Ciberseguridad y Desarrollo
+**Intereses:**  
+Sistemas | Cloud | Ciberseguridad | Desarrollo
 
 #IUB #UniBarranquilla #IngenieríaMecatronica #Telematica 
 #EducaciónSuperior #Colombia #TechStudent
+
+---
+
+## ⭐ Valor del proyecto
+
+Este repositorio documenta el inicio de mi entorno de laboratorio personal, el cual evolucionará hacia un entorno de pruebas enfocado en seguridad ofensiva y defensiva.
 
 ---
 
