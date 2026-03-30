@@ -59,7 +59,7 @@ Crear una máquina virtual desde cero, configurar sus recursos hardware e instal
 
 ## 📸 Evidencia del laboratorio
 
-- Creacion de maquina virtual.
+**Creación de máquina virtual:**
 ![Creacion de maquina virtual](screenshots/Creacion_maquina_virtual.png)
 
 ![Montar ISO Ubuntu](screenshots/Montar_ISO_Ubuntu.png)
